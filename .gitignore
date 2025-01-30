@@ -1,0 +1,4 @@
+.idea
+src/vectorstore
+__pycache__
+*.pdf
