@@ -1,11 +1,12 @@
 langchain==0.0.200
 langchain-community==0.0.10
 faiss-cpu==1.7.2
-huggingface_hub==0.13.3
+huggingface_hub==0.12.1  # Compatible version with langchain
 python-dotenv==0.21.0
 pydantic==1.10.7
 requests==2.28.2
 PyPDF2==1.26.0
 tqdm==4.64.0
 langchain-huggingface==0.0.3
+
 
